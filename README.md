@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manan</h1>
 <h3 align="center">A passionate Software Developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mananrajkumar&label=Profile%20views&color=0e75b6&style=flat" alt="mananrajkumar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MananRajkumar&label=Profile%20views&color=0e75b6&style=flat" alt="mananrajkumar" /> </p>
 
 - 📫 How to reach me **mananraj1311@gmail.com**
 
